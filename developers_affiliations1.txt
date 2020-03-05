@@ -1,4 +1,4 @@
-# This is the main developers affiliations file.
+Tu# This is the main developers affiliations file.
 # If you see your name with asterisk '*' sign - it means that
 # multiple affiliations were found for you with different email addresses.
 # Please merge all of them into one then.
@@ -21488,6 +21488,8 @@ etiennedesign: etienne.leprette!advantys.com
 	CNCF from 2017-12-01
 etiennetremel: etienne!kogusenn.com, etienne.tremel!container-solutions.com, etienne.tremel!orange.fr, etiennetremel!users.noreply.github.com, etremel!travix.com
 	ContainerSolutions
+etlars: etlars!users.noreply.github.com, etlars!gmail.com, color.park!samsung.com
+        Samsung SDS 
 etoews: etoews!users.noreply.github.com, everett.toews!gmail.com
 	Rackspace
 etowah: mj3580!att.com
